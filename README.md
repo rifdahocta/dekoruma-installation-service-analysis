@@ -59,14 +59,6 @@ These findings suggest that installation failures may be influenced by factors t
 - SciPy
 - Looker Studio
 
-## Repository Structure
-
-```
-├── Data/
-├── Notebook/
-└── README.md
-```
-
 ## Dashboard
 
 Interactive dashboard is available in Looker Studio:
