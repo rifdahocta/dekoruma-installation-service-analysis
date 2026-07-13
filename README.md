@@ -64,7 +64,6 @@ These findings suggest that installation failures may be influenced by factors t
 ```
 ├── Data/
 ├── Notebook/
-├── Dashboard/
 └── README.md
 ```
 
