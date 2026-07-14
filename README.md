@@ -43,9 +43,7 @@ After the ETL process, **294,521** valid transactions remained for analysis.
 - Installation Success Rate: **79.58%**
 - Installation Failure Rate: **20.42%**
 - Failure rates across product categories, sales channels, and stores are relatively similar.
-- Statistical analysis indicates that:
-  - Product category and sales channel are **not significantly associated** with installation results.
-  - Delivery duration, installation duration, and assembly fee **do not differ significantly** between successful and failed installations.
+- Statistical analysis indicates that: Delivery duration, installation duration, and assembly fee **do not differ significantly** between successful and failed installations.
 
 These findings suggest that installation failures may be influenced by factors that are not captured in the available dataset.
 
